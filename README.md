@@ -31,6 +31,8 @@
 	}
 	```
 	
+## Repository Structure
+Repo contains directories with a **Circuit Diagram**, <kbd><b>.brd</b></kbd> _file for Autodesk PCB designs_, and <kbd><b>.ino</b></kbd> _file for Arduino code in C++_
 
 ### Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
